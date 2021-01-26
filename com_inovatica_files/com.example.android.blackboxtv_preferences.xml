@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="url2">https://storage.googleapis.com/</string>
+    <string name="url3">https://api.mpmedia.tv</string>
+    <string name="url1">https://api.onsign.tv</string>
+    <string name="autolaunchApp">tv.onsign</string>
+</map>
